@@ -1,0 +1,9 @@
+2019/10/23 22:03:33.424|INFO|This is an info message |NLogExample.Program|
+2019/10/23 22:04:41.188|INFO|This is an info message |NLogExample.Program|
+2019/10/23 22:04:41.222|WARN|This is a warning message |NLogExample.Program|
+2019/10/23 22:05:31.932|INFO|This is an info message |NLogExample.Program|
+2019/10/23 22:05:31.964|WARN|This is a warning message |NLogExample.Program|
+2019/10/23 22:05:31.973|ERROR|This is an error message |NLogExample.Program|
+2019/10/23 22:06:59.493|INFO|This is an info message |NLogExample.Program
+2019/10/23 22:06:59.532|WARN|This is a warning message |NLogExample.Program
+2019/10/23 22:06:59.532|ERROR|This is an error message |NLogExample.Program
